@@ -1,0 +1,12 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+          {
+              "appIDs": ["57V5JGX394.com.bcp.App2Web-1ra"],
+              "appID": "57V5JGX394.com.bcp.App2Web-1ra",
+              "paths": ["/#/usuarios"]
+          }
+      ]
+  }
+}

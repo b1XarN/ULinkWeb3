@@ -1,0 +1,10 @@
+{
+  "/.well-known/*": {
+    "target": "http://localhost:4200/src/assets",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/.well-known": ""
+    }
+  }
+}
