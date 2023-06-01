@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class HomeComponent {
   onNavigate(){
     // your logic here.... like set the url
-    const url = 'https://contabilidad.store/#/usuarios';
-    window.open(url, '_blank');
-}
+    const url = 'https://luishuapayas.com/dashboard/index.html';
+    window.location.replace(url)
+  }
 }
